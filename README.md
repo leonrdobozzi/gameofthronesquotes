@@ -2,11 +2,11 @@
 
 Projeto criado com a intenção de estudar o consumo de API's com o React. <br>
 
-Ferramentas Geral: 
--React
--Axios
--Styled Components
--React Hooks (useState e useEffect)
+Ferramentas Geral: <br>
+-React <br>
+-Axios <br>
+-Styled Components <br>
+-React Hooks (useState e useEffect) <br>
 
 ## Para utilizar o projeto
 

@@ -2,7 +2,7 @@
 
 Projeto criado com a intenção de estudar o consumo de API's com o React. <br>
 
-Ferramentas Geral: <br>
+Ferramentas: <br>
 -React <br>
 -Axios <br>
 -Styled Components <br>

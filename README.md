@@ -22,4 +22,4 @@ Após isso o projeto estará instalado com todas suas dependências e pronto par
 
 ### Links de refêrencia
 
-API: <a href="https://gameofthronesquotes.xyz/">API DO GAME OF THRONES</a>
+<a href="https://gameofthronesquotes.xyz/">API DO GAME OF THRONES</a>

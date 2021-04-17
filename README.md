@@ -1,6 +1,6 @@
 # Game of Thrones Quotes
 
-Projeto criado com a intenção de estudar o consumo de API's com o React, usei algumas ferramentas como o Axios e o Styled Components para uma estilização básica.
+Projeto criado com a intenção de estudar o consumo de API's com o React. <br>
 
 Ferramentas Geral: 
 -React
